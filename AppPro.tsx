@@ -4,10 +4,9 @@ import {
   View,
   Text,
   SafeAreaView,
-  Button,
   StyleSheet,
   useColorScheme,
-  Appearance
+  Appearance,
 } from 'react-native';
 
 function AppPro(): JSX.Element {
